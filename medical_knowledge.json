@@ -1,0 +1,230 @@
+{
+  "fever": {
+    "title": "Fever",
+    "symptoms": ["high temperature", "chills", "sweating", "headache", "weakness"],
+    "description": "Fever is usually caused by viral or bacterial infection. Drink fluids, rest, and use paracetamol/ibuprofen for discomfort.",
+    "when_to_seek_care": "Seek care if fever lasts >3 days, above 39.4°C, or accompanied by rash, confusion, severe headache or breathing problems."
+  },
+  "headache": {
+    "title": "Headache",
+    "symptoms": ["pain", "pressure", "throbbing", "sensitivity to light"],
+    "description": "Caused by tension, dehydration, stress, eye strain, or migraine. Rest, hydration, and OTC pain relievers help.",
+    "when_to_seek_care": "Seek urgent care for sudden severe headache, after injury, or with confusion, fever, weakness, or vision change."
+  },
+  "common_cold": {
+    "title": "Common Cold",
+    "symptoms": ["runny nose", "cough", "sneezing", "sore throat", "mild fever"],
+    "description": "Viral infection of the upper respiratory tract. Rest, fluids, steam inhalation relieve symptoms.",
+    "when_to_seek_care": "Seek care if symptoms last >10 days or worsen."
+  },
+  "flu": {
+    "title": "Flu (Influenza)",
+    "symptoms": ["fever", "body aches", "chills", "fatigue", "cough"],
+    "description": "Flu is a viral illness causing high fever, body pain and fatigue. Rest and hydration are essential.",
+    "when_to_seek_care": "Seek care if breathing difficulty, chest pain or persistent high fever occurs."
+  },
+  "sore_throat": {
+    "title": "Sore Throat",
+    "symptoms": ["pain", "difficulty swallowing", "scratchy feeling"],
+    "description": "Often viral but sometimes bacterial (strep throat). Warm liquids, lozenges help.",
+    "when_to_seek_care": "Seek care if severe pain, fever above 38.5°C, or white patches appear."
+  },
+  "ear_pain": {
+    "title": "Ear Pain",
+    "symptoms": ["sharp pain", "fullness", "hearing loss"],
+    "description": "May be caused by infection or wax buildup.",
+    "when_to_seek_care": "Seek care for severe pain, discharge, bleeding, or fever."
+  },
+  "sinus_infection": {
+    "title": "Sinus Infection",
+    "symptoms": ["facial pressure", "nasal congestion", "thick mucus", "headache"],
+    "description": "Inflammation of sinus passages. Saline rinse, steam, fluids help.",
+    "when_to_seek_care": "Seek doctor if symptoms last >10 days."
+  },
+  "asthma_attack": {
+    "title": "Asthma Attack",
+    "symptoms": ["wheezing", "shortness of breath", "chest tightness"],
+    "description": "Triggered by allergens, infections, exercise. Use rescue inhaler.",
+    "when_to_seek_care": "Seek emergency help if inhaler does not relieve symptoms."
+  },
+  "allergic_reaction": {
+    "title": "Allergic Reaction",
+    "symptoms": ["rash", "swelling", "itching", "sneezing"],
+    "description": "Triggered by allergens such as pollen or food. Antihistamines help.",
+    "when_to_seek_care": "Seek emergency help for swelling of lips/tongue or difficulty breathing."
+  },
+  "migraine": {
+    "title": "Migraine",
+    "symptoms": ["throbbing pain", "nausea", "light sensitivity"],
+    "description": "Neurological condition causing severe headaches. Rest in dark room, hydration help.",
+    "when_to_seek_care": "Seek care for new or worsening migraines."
+  },
+  "stomach_pain": {
+    "title": "Stomach Pain",
+    "symptoms": ["cramps", "bloating", "sharp pain"],
+    "description": "Common causes include indigestion, gastritis, gas or infection.",
+    "when_to_seek_care": "Seek help for severe pain, vomiting blood, or persistent symptoms."
+  },
+  "food_poisoning": {
+    "title": "Food Poisoning",
+    "symptoms": ["vomiting", "diarrhea", "fever", "abdominal cramps"],
+    "description": "Caused by contaminated food. Hydration is crucial.",
+    "when_to_seek_care": "Seek care for dehydration or blood in stool."
+  },
+  "diarrhea": {
+    "title": "Diarrhea",
+    "symptoms": ["loose stools", "cramps", "urgency"],
+    "description": "Often due to infection or diet changes. ORS and fluids help.",
+    "when_to_seek_care": "Seek care if lasting >3 days or severe dehydration occurs."
+  },
+  "constipation": {
+    "title": "Constipation",
+    "symptoms": ["hard stools", "difficulty passing stools"],
+    "description": "Increase water, fiber intake and physical activity.",
+    "when_to_seek_care": "Seek help if pain or bleeding occurs."
+  },
+  "vomiting": {
+    "title": "Vomiting",
+    "symptoms": ["nausea", "dehydration", "weakness"],
+    "description": "Caused by infection, food poisoning, motion sickness.",
+    "when_to_seek_care": "Seek care if vomiting persists >24 hours or contains blood."
+  },
+  "heartburn": {
+    "title": "Heartburn (Acid Reflux)",
+    "symptoms": ["burning chest", "sour taste"],
+    "description": "Avoid trigger foods, eat small meals, avoid lying down after eating.",
+    "when_to_seek_care": "Seek care for severe or frequent symptoms."
+  },
+  "chest_pain": {
+    "title": "Chest Pain",
+    "symptoms": ["tightness", "pressure", "burning sensation"],
+    "description": "Can be heart-related, lung-related, or acid reflux.",
+    "when_to_seek_care": "Seek emergency care immediately for any unexplained chest pain."
+  },
+  "back_pain": {
+    "title": "Back Pain",
+    "symptoms": ["stiffness", "muscle tightness"],
+    "description": "Usually due to strain or posture. Heat pads and stretching help.",
+    "when_to_seek_care": "Seek care if weakness or numbness in legs occurs."
+  },
+  "neck_pain": {
+    "title": "Neck Pain",
+    "symptoms": ["stiff neck", "limited movement"],
+    "description": "Often from muscle strain or poor posture.",
+    "when_to_seek_care": "Seek help for severe pain or fever."
+  },
+  "sprained_ankle": {
+    "title": "Sprained Ankle",
+    "symptoms": ["swelling", "bruising", "pain"],
+    "description": "RICE: Rest, Ice, Compression, Elevation.",
+    "when_to_seek_care": "Seek care if cannot bear weight."
+  },
+  "sprained_wrist": {
+    "title": "Sprained Wrist",
+    "symptoms": ["swelling", "pain", "reduced movement"],
+    "description": "Caused by twisting or falling on hand.",
+    "when_to_seek_care": "Seek care if numbness or severe swelling occurs."
+  },
+  "muscle_strain": {
+    "title": "Muscle Strain",
+    "symptoms": ["pain", "tenderness", "spasm"],
+    "description": "Apply ice first 48h then heat.",
+    "when_to_seek_care": "Seek help for severe pain or swelling."
+  },
+  "minor_burn": {
+    "title": "Minor Burn",
+    "symptoms": ["redness", "pain", "swelling"],
+    "description": "Run under cool water 20 minutes. Do NOT apply ice.",
+    "when_to_seek_care": "Seek care if large or deep."
+  },
+  "sunburn": {
+    "title": "Sunburn",
+    "symptoms": ["red skin", "pain", "peeling"],
+    "description": "Apply cool compress, aloe vera.",
+    "when_to_seek_care": "Seek help for severe blistering."
+  },
+  "rash": {
+    "title": "Skin Rash",
+    "symptoms": ["redness", "itching", "bumps"],
+    "description": "May be allergic or infection-related.",
+    "when_to_seek_care": "Seek care if spreading rapidly or with fever."
+  },
+  "eczema": {
+    "title": "Eczema",
+    "symptoms": ["dry skin", "itchy patches"],
+    "description": "Use moisturizers, avoid triggers.",
+    "when_to_seek_care": "Seek help for severe flare-ups."
+  },
+  "acne": {
+    "title": "Acne",
+    "symptoms": ["pimples", "blackheads"],
+    "description": "Clean gently, avoid picking, use OTC creams.",
+    "when_to_seek_care": "Seek care for severe acne."
+  },
+  "pink_eye": {
+    "title": "Pink Eye (Conjunctivitis)",
+    "symptoms": ["red eye", "itching", "discharge"],
+    "description": "Usually viral. Maintain hygiene.",
+    "when_to_seek_care": "Seek care for vision problems."
+  },
+  "eye_strain": {
+    "title": "Eye Strain",
+    "symptoms": ["dry eyes", "blurred vision"],
+    "description": "Rest, follow 20-20-20 rule.",
+    "when_to_seek_care": "Seek help if persistent."
+  },
+  "toothache": {
+    "title": "Toothache",
+    "symptoms": ["sharp pain", "sensitivity"],
+    "description": "Rinse with warm saltwater.",
+    "when_to_seek_care": "Seek dentist if severe pain."
+  },
+  "gum_bleeding": {
+    "title": "Bleeding Gums",
+    "symptoms": ["bleeding", "swelling"],
+    "description": "Often due to poor oral hygiene.",
+    "when_to_seek_care": "Seek dental care if persistent."
+  },
+  "knee_pain": {
+    "title": "Knee Pain",
+    "symptoms": ["swelling", "stiffness"],
+    "description": "May be strain or arthritis.",
+    "when_to_seek_care": "Seek care for locking or instability."
+  },
+  "shoulder_pain": {
+    "title": "Shoulder Pain",
+    "symptoms": ["stiffness", "aching"],
+    "description": "Often tendinitis or strain.",
+    "when_to_seek_care": "Seek help if limited movement."
+  },
+  "urinary_infection": {
+    "title": "Urinary Tract Infection",
+    "symptoms": ["burning urination", "frequent urge"],
+    "description": "Caused by bacteria. Drink plenty of water.",
+    "when_to_seek_care": "Seek care for fever or flank pain."
+  },
+  "dehydration": {
+    "title": "Dehydration",
+    "symptoms": ["dry mouth", "dark urine", "dizziness"],
+    "description": "Increase fluid intake immediately.",
+    "when_to_seek_care": "Seek care if severe."
+  },
+  "anxiety": {
+    "title": "Anxiety",
+    "symptoms": ["nervousness", "fast heartbeat"],
+    "description": "Breathing exercises and relaxation help.",
+    "when_to_seek_care": "Seek professional help if daily life is affected."
+  },
+  "stress": {
+    "title": "Stress",
+    "symptoms": ["irritability", "tension"],
+    "description": "Rest, exercise, and relaxation help.",
+    "when_to_seek_care": "Seek help if overwhelming."
+  },
+  "insomnia": {
+    "title": "Insomnia",
+    "symptoms": ["difficulty sleeping"],
+    "description": "Maintain regular sleep schedule.",
+    "when_to_seek_care": "Seek help if persistent."
+  }
+}

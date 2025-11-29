@@ -1,0 +1,98 @@
+{
+  "fever": [
+    {
+      "name": "Paracetamol (Acetaminophen)",
+      "use": "Helps reduce fever and mild pain.",
+      "warning": "Avoid overdose. Safe when used as labeled."
+    },
+    {
+      "name": "Ibuprofen",
+      "use": "Reduces fever, swelling and body pain.",
+      "warning": "Avoid if you have stomach ulcers or kidney issues."
+    }
+  ],
+
+  "headache": [
+    {
+      "name": "Paracetamol",
+      "use": "Helps relieve most mild to moderate headaches.",
+      "warning": "Do not exceed recommended daily limit."
+    },
+    {
+      "name": "Ibuprofen",
+      "use": "Effective for tension headaches.",
+      "warning": "Take with food. Avoid in gastric issues."
+    }
+  ],
+
+  "common_cold": [
+    {
+      "name": "Antihistamines (Cetirizine, Loratadine)",
+      "use": "Helps reduce runny nose and sneezing.",
+      "warning": "May cause mild drowsiness."
+    },
+    {
+      "name": "Paracetamol",
+      "use": "Helps relieve fever and sore throat discomfort.",
+      "warning": "Follow label instructions."
+    }
+  ],
+
+  "sore_throat": [
+    {
+      "name": "Lozenges (Clove, Menthol)",
+      "use": "Gives soothing relief.",
+      "warning": "Do not give to very young children."
+    },
+    {
+      "name": "Warm Salt Water Gargle",
+      "use": "Helps reduce throat inflammation.",
+      "warning": "Safe home remedy."
+    }
+  ],
+
+  "allergic_reaction": [
+    {
+      "name": "Antihistamines (Loratadine, Cetirizine)",
+      "use": "Helps reduce itching and sneezing.",
+      "warning": "Causes mild drowsiness in some people."
+    }
+  ],
+
+  "heartburn": [
+    {
+      "name": "Antacids",
+      "use": "Helps relieve acid reflux and burning sensation.",
+      "warning": "Short-term relief only."
+    }
+  ],
+
+  "diarrhea": [
+    {
+      "name": "ORS (Oral Rehydration Solution)",
+      "use": "Restores fluids and salts.",
+      "warning": "Most important treatment for diarrhea."
+    }
+  ],
+
+  "vomiting": [
+    {
+      "name": "ORS",
+      "use": "Prevents dehydration after vomiting.",
+      "warning": "Safe for all ages."
+    }
+  ],
+
+  "body_pain": [
+    {
+      "name": "Ibuprofen",
+      "use": "Reduces muscle pain and swelling.",
+      "warning": "Avoid if you have kidney or stomach conditions."
+    },
+    {
+      "name": "Paracetamol",
+      "use": "General safe pain reliever.",
+      "warning": "Do not exceed label dose."
+    }
+  ]
+}

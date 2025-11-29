@@ -1,0 +1,5 @@
+Flask==2.3.2
+flask-cors==4.0.1
+gunicorn==20.1.0
+# Optional (only if you plan to enable OpenAI features)
+openai==1.0.0
